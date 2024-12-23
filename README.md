@@ -1,4 +1,4 @@
 # ikbal_demo
 This is my first repository.
 <br>
-Author - Sayed Ikbal
+Author - Sayed (college)
